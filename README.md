@@ -70,7 +70,7 @@ Console-based role-access taxi charge system with Driver, Passenger, and Admin f
 <br>
 
 ### 🔹 Design & Creativity  
-<p align="left>
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Blender-Dark.svg" width="30" style="margin:8px;" alt="Blender" />  
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/UnrealEngine.svg" width="30" style="margin:8px;" alt="Unreal Engine" />  
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Figma-Dark.svg" width="30" style="margin:8px;" alt="Figma" />  
