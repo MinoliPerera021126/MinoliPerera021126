@@ -102,7 +102,7 @@ Console-based role-access taxi charge system with Driver, Passenger, and Admin f
 
 ## 🌍 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/minoli-perera-14769527a)   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/hk-minoli-perera)   
 [![Email](https://img.shields.io/badge/Email-me-red?style=for-the-badge&logo=gmail)](mailto:mnnetmi@gmail.com)  
 
 ---
