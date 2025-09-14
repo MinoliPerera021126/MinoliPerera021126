@@ -9,7 +9,7 @@
 
 ## 🚀 Featured Projects  
 
-### 🔹 [BlueCradle – Infant Health Monitoring System](https://github.com/MinoliPerera021126/final-oop-project-group-07-ihms.git)  
+### 🔹 [BlueCradle – Infant Health Monitoring System](https://github.com/MinoliPerera021126/BlueCradle---Infant-Health-Monitoring-System.git)  
 > *ASP.NET | C# | MySQL | Bootstrap*  
 A full-stack web-based system for infant health management, including child registration, clinic scheduling, vaccination tracking, and health record management.  
 
@@ -53,7 +53,8 @@ Console-based role-access taxi charge system with Driver, Passenger, and Admin f
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/HTML.svg" width="30" style="margin:8px;" alt="HTML5" />  
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/CSS.svg" width="30" style="margin:8px;" alt="CSS3" />  
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Bootstrap.svg" width="30" style="margin:8px;" alt="Bootstrap" />  
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/DotNet.svg" width="30" style="margin:8px;" alt=".NET" />  
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/DotNet.svg" width="30" style="margin:8px;" alt=".NET" /> 
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Django.svg" width="30" style="margin:8px;" alt="Django" /> 
 </p>
 
 <br>
@@ -91,7 +92,7 @@ Console-based role-access taxi charge system with Driver, Passenger, and Admin f
 
 ## 📌 Pinned Projects  
 
-[![BlueCradle](https://img.shields.io/badge/BlueCradle%20Project-ASP.NET-blue?style=for-the-badge)](https://github.com/MinoliPerera021126/final-oop-project-group-07-ihms.git)  
+[![BlueCradle](https://img.shields.io/badge/BlueCradle%20Project-ASP.NET-blue?style=for-the-badge)](https://github.com/MinoliPerera021126/BlueCradle---Infant-Health-Monitoring-System.git)  
 [![Taxi Calculator](https://img.shields.io/badge/Taxi%20Charge%20Calculator-Python-yellow?style=for-the-badge)](https://github.com/MinoliPerera021126/ITC1171-Group-Assignment-CPM-24375-Group.git)  
 [![3D Models](https://img.shields.io/badge/3D%20Models-Portfolio-orange?style=for-the-badge)](https://github.com/minoli-perera/3D-Models-Portfolio)  
 
