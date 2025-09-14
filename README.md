@@ -25,7 +25,7 @@ Console-based role-access taxi charge system with Driver, Passenger, and Admin f
 
 ## 🎨 Creative Side Projects 
 
-### 🕹️ [3D Modelling & Game Dev Experiments](https://github.com/minoli-perera/3D-Models-Portfolio)  
+### 🕹️ [3D Modelling & Game Dev Experiments](https://github.com/minoli-perera/3d-models)  
 > *Blender | Unreal Engine*  
 - Collection of 3D models (characters, objects, environments).  
 - Renders and files for experimenting with game engines.  
