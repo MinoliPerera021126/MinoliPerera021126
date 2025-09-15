@@ -94,7 +94,7 @@ Console-based role-access taxi charge system with Driver, Passenger, and Admin f
 
 [![BlueCradle](https://img.shields.io/badge/BlueCradle%20Project-ASP.NET-blue?style=for-the-badge)](https://github.com/MinoliPerera021126/BlueCradle---Infant-Health-Monitoring-System.git)  
 [![Taxi Calculator](https://img.shields.io/badge/Taxi%20Charge%20Calculator-Python-yellow?style=for-the-badge)](https://github.com/MinoliPerera021126/ITC1171-Group-Assignment-CPM-24375-Group.git)  
-[![3D Models](https://img.shields.io/badge/3D%20Models-Portfolio-orange?style=for-the-badge)](https://github.com/minoli-perera/3D-Models-Portfolio)  
+[![3D Models](https://img.shields.io/badge/3D%20Models-Portfolio-orange?style=for-the-badge)](https://github.com/MinoliPerera021126/3d-models.git)  
 
 ---
 
