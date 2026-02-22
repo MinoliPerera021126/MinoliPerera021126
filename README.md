@@ -22,6 +22,24 @@ Currently seeking **internship or trainee roles** in AI engineering or system de
 
 ## 🚀 Featured Projects
 
+### 🔹 Loan Approval Prediction System (End-to-End ML Deployment)
+**Technologies:** Python · scikit-learn · FastAPI · Streamlit · Git · REST API<br>
+**Repository:** https://github.com/MinoliPerera021126/loan-approval-ml-system
+
+Production-oriented loan approval prediction system developed as a self-initiated ML deployment project.
+
+**Overview**
+- Built an end-to-end binary classification pipeline to predict loan approval status with emphasis on model reliability and precision.
+- Designed model deployment infrastructure with REST API backend and interactive frontend interface.
+
+**Key contributions**
+- Developed structured preprocessing pipeline using ```ColumnTransformer``` to handle missing values and categorical encoding.
+- Optimized a Random Forest classifier using precision-focused hyperparameter tuning and 5-fold cross-validation.
+- Achieved ~84% test accuracy with 0.85 precision and 0.94 recall for the approved class.
+- Deployed the trained model via FastAPI and integrated a Streamlit frontend for real-time prediction interaction.
+
+---
+
 ### 🔹 Cleaning Management System — University of Sri Jayewardenepura  
 **Technologies:** Django · Python · MySQL · Bootstrap <br>
 **Repository:** https://github.com/Department-of-IT-FMSC-USJ/final-project-byte-mop
