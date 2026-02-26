@@ -4,7 +4,6 @@
 Python · Django · ASP.NET · MySQL · Azure AI Fundamentals  
 
 🔗 [**Portfolio**](https://minoliperera021126.github.io/portfolio-minoli-perera/) <br>
-📄 [**Resume**](https://minoliperera021126.github.io/resume-minoli-perera/) <br> 
 📧 [**Email**](mnnetmi@gmail.com) <br>
 💼 [**LinkedIn**](https://linkedin.com/in/minoliperera)  
 
@@ -181,8 +180,7 @@ Includes:
 
 ## 📌 How You Can Explore My Work
 
-- 🌐 **Portfolio Website:** https://minoliperera021126.github.io/portfolio-minoli-perera/  
-- 📄 **Online Resume:** https://minoliperera021126.github.io/resume-minoli-perera/  
+- 🌐 **Portfolio Website:** https://minoliperera021126.github.io/portfolio-minoli-perera/    
 - 💻 **GitHub Projects:** Browse pinned repositories  
 
 If you would like a walkthrough, demo, or explanation of any project, feel free to reach out.
