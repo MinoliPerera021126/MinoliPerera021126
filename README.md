@@ -194,12 +194,4 @@ If you would like a walkthrough, demo, or explanation of any project, feel free 
 
 ---
 
-## 📊 GitHub Stats
-
-![Minoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinoliPerera021126&show_icons=true&theme=tokyonight) <br> 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinoliPerera021126&layout=compact&theme=tokyonight)
-
----
-
 ✨ *“Code is where creativity meets logic, and design brings it to life.”* ✨
