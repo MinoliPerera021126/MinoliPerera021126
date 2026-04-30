@@ -19,7 +19,26 @@ Currently seeking **internship or entry-level roles** in AI/ML engineering where
 
 ---
 
-## 🚀 Featured ML Projects
+## 🚀 Projects
+
+### 🔹 PyTorch Flower Image Classification (Deep Learning & Computer Vision)
+**Technologies:** Python · PyTorch · torchvision · scikit-learn · Matplotlib · Seaborn <br>
+**Repository:** https://github.com/MinoliPerera021126/multi-class-species-classification-with-pytorch-neural-network <br>
+**Created:** May 2026
+
+An end-to-end PyTorch pipeline for multi-class flower image classification, demonstrating fundamental deep learning workflows from data preprocessing to model evaluation.
+
+**Model Development & Architecture**
+- Built a custom Convolutional Neural Network (CNN) from scratch to extract spatial features and classify images.
+- Implemented Transfer Learning by fine-tuning a pre-trained ResNet-18 model, significantly boosting accuracy on a small dataset.
+- Engineered a robust data augmentation pipeline (random cropping, flipping, color jitter, and rotation) to prevent overfitting.
+
+**Evaluation & Deployment**
+- Evaluated models using comprehensive metrics, generating classification reports and confusion matrices to analyze per-class performance.
+- Created an interactive Jupyter/Colab notebook to allow seamless training, evaluation, and real-time inference on newly uploaded images.
+- Saved model checkpoints and weights for efficient future inference and production readiness.
+
+---
 
 ### 🔹 Car Price Prediction System (Regression ML Model)
 **Technologies:** Python · scikit-learn · Jupyter Notebook · Pandas · NumPy · Matplotlib · Tensorflow <br>
@@ -106,49 +125,6 @@ Production-oriented machine learning system demonstrating a complete ML lifecycl
 - Deployed trained model via FastAPI backend with RESTful API endpoints for real-time inference.
 - Integrated Streamlit frontend for interactive prediction interface and data visualization.
 - Implemented proper model versioning and inference pipeline for production use.
-
----
-
-### 🔹 University Facility Management System — University of Sri Jayewardenepura  
-**Technologies:** Django · Python · MySQL · Backend Development · Full-Stack <br>
-**Repository:** https://github.com/Department-of-IT-FMSC-USJ/final-project-byte-mop <br>
-**Created:** February 2026
-
-Full-stack web application for institutional task management developed for **ITC3380 – Programming Applications & Frameworks** module.
-
-**System Architecture & Features**
-- University cleaning task management platform with role-based workflows
-- Staff scheduling and intelligent duty assignment system
-- Administrative dashboard with real-time task monitoring and reporting
-
-**Backend Implementation**
-- Designed and implemented Django backend with complex business logic.
-- Structured relational database schema for efficient data management.
-- Developed secure authentication and authorization mechanisms.
-- Created responsive admin interfaces for stakeholder management.
-
----
-
-### 🔹 BlueCradle — Infant Health Monitoring System (v2)
-**Technologies:** Django · Python · MySQL · Healthcare Data Management <br>
-**Repository:** https://github.com/MinoliPerera021126/bluecradle-infant-and-child-health-monitoring-system-v2 <br>
-**Created:** February 2026 - In Progress
-
-Comprehensive web application for managing infant healthcare data and monitoring health metrics.
-
-**System Design & Features**
-- Child registration and comprehensive medical record management  
-- Vaccination tracking with automated scheduling
-- Health metrics monitoring and clinic appointment management  
-- Role-based access control for healthcare providers and parents  
-
-**Technical Implementation**
-- Relational database schema design optimized for healthcare data integrity and HIPAA considerations.
-- Backend business logic implementation using Django framework.
-- Modular system design ensuring scalability and maintainability.
-- Secure data handling with appropriate access controls.
-
-> ⚠️ *All data used in this project is synthetic and created for academic purposes only.*
 
 ---
 
